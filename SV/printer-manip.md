@@ -16,6 +16,13 @@ This guide shows how to abuse RNG to easily get rare items in Scarlet/Violet's I
 
 Remember that all outputs (except Poke Ball Lotto) can be doubled using the 2x Item Bonus Chance if you happen to roll it. Note the date format listed is MM-DD-YYYY.
 
+### 2x Item Bonus Chance
+
+```
+Time: 2044-05-06 15:33
+```
+Any prints within the next 10 seconds will initiate the 2x Item Bonus Chance.
+
 ### 5 Unremarkable Teacups
 
 ```
@@ -67,3 +74,17 @@ x2 King’s Rock
 x2 King’s Rock
 x2 Star Sweet
 ```
+
+### EXP candies
+
+```
+Time: 2033-02-08 10:48:09
+Seed: 1991472489
+1040000 exp
+x10 Exp. Candy XL
+x4 Protein
+x20 Exp. Candy L
+x8 Exp. Candy XL
+x10 Exp. Candy XL
+```
+Seed found by Anubis on his Item Printer seed Github [here](https://gist.github.com/Lusamine/25f5eb30e7d6dace1828283795aae456)
