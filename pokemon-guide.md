@@ -17,7 +17,7 @@ To easily jump to a certain Pokemon, use the "Outline" button ![](/images/github
     - SV = Scarlet/Violet
     - Z-A = Legends: Z-A
     - FRLG = FireRed/LeafGreen
-    - "DLC" or "+ DLC" means that game's DLC is required
+    - "DLC" or "{game} + DLC" means that game's DLC is required
 - Encounter rates less than or equal to 5% are not listed unless they're the only repeatable method for that game.
 - Breeding is almost always very easy and, in modern games, allows forcing a specific Nature and Ability. For many Pokemon, this will be very efficient and result in some VP savings; however, for some, it will be slow due to long egg cycles. These are the Switch games with breeding, from most to least efficient:
     - SV
@@ -55,6 +55,30 @@ This line is generally best bred.
     - At the Lake of Outrage, it has a 5% chance to appear in purple beams at [Den C](https://bulbapedia.bulbagarden.net/wiki/Lake_of_Outrage/Dens#C).
 - **FRLG:** Charmander is a starter Pokemon choice.
 
+## Flapple, Appletun, and Hydrapple
+
+### Flapple and Appletun
+
+Applin evolves into Flapple when a Tart Apple is used on it, or Appletun when a Sweet Apple is used.
+
+In SV, both Tart and Sweet Apples can be purchased from any [Delibird Presents](https://bulbapedia.bulbagarden.net/wiki/Delibird_Presents). Flapple and Appletun otherwise only appear in Tera Raids, so this is easily the most efficient way to raise them.
+
+In SwSh, Tart Apples are exclusive to Sword, while Sweet Apples are exclusive to Shield. They can be found found as hidden items at [Axew's Eye](https://bulbapedia.bulbagarden.net/wiki/Axew%27s_Eye). With DLC, they can also be found at [Loop Lagoon](https://bulbapedia.bulbagarden.net/wiki/Loop_Lagoon) and the [Soothing Wetlands](https://bulbapedia.bulbagarden.net/wiki/Soothing_Wetlands), though in significantly fewer quantities.
+
+### Hydrapple
+
+Only available in SV + DLC by evolving Dipplin, which evolves from Applin.
+
+To evolve Applin into Dipplin, use a Syrupy Apple, which is purchaseable from the food stand at the Mossfell Confluence in Kitakami.
+
+To evolve Dipplin into Hydrapple, teach it Dragon Cheer using TM226, then induce the evolution by leveling it up. TM226 needs Tatsugiri Scales, Lapras Teardrops, and Applin Juice.
+
+### Applin
+
+- **SV + DLC:** Applin is easily found on the apple trees along the path through Apple Hills in Kitakami.
+- **SV:** WIP
+- **SwSh:** WIP
+
 ## Ursaluna
 
 Only available in PLA in Massive Mass Outbreaks, or by evolving from Ursaring. The latter is significantly more efficient, as [Peat Blocks can easily be farmed](/PLA/ursaluna-dig-farm.md).
@@ -87,6 +111,129 @@ This line is generally best bred.
 - **HOME:** You get all three unevolved Paldea Starters when you deposit a Pokemon from SV for the first time.
 - **SV:** Sprigatito is a starter Pokemon choice.
 
+## Skeledirge
+
+Available in SV and GO by evolving Fuecoco.
+
+This line is generally best bred.
+
+- **HOME:** You get all three unevolved Paldea Starters when you deposit a Pokemon from SV for the first time.
+- **SV:** Fuecoco is a starter Pokemon choice.
+
+## Quaquaval
+
+Available in SV and GO by evolving Quaxly.
+
+This line is generally best bred.
+
+- **HOME:** You get all three unevolved Paldea Starters when you deposit a Pokemon from SV for the first time.
+- **SV:** Quaxly is a starter Pokemon choice.
+
+## Pawmot
+
+Available in SV and GO.
+
+In SV, Pawmot itself is only available in 5⭐ and 6⭐ Tera Raids in Paldea. Otherwise, it must be evolved from Pawmo.
+
+To evolve Pawmo, you must have it out of its Poke Ball while walking 1000 steps, then induce the evolution by leveling it up. The step counter resets if the game is closed, or if you take steps while a Pokemon that does not evolve this way is sent out. The step counter does *not* reset upon evolution, so you can evolve Pawmo in bulk by leveling them up without walking 1000 steps repeatedly.
+
+## Maushold
+
+Available in SV and GO.
+
+In SV, Maushold itself is only available in 4⭐ and 5⭐ Tera Raids in Paldea. Otherwise, it must be evolved from Tandemaus.
+
+Maushold's forms do not affect battles. (Family of Four is one pound lighter, but this does not change the damage taken from Low Kick or Grass Knot.)
+
+### Tandemaus
+
+- **SV:** Tandemaus can be found on the path leading up to the Pokemon League.
+
+## Garganacl
+
+Available in SV, Z-A + DLC, and GO.
+
+- **SV:** Naclstack and Garganacl can be found near rocky ledges in Area Zero.
+- **Z-A + DLC:** The entire evolution line can be found in [Rock-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Rock-type_hyperspace_wild_zones).
+
+## Armarouge and Ceruledge
+
+Available in SV, Z-A + DLC, and GO.
+
+In SV, Armarouge and Ceruledge themselves are only available in 5⭐ and 6⭐ Tera Raids in Paldea. Otherwise, and in all other games, it must be evolved from Charcadet.
+
+To evolve Charcadet into Armarouge, use an Auspicious Armor on it. To evolve Charcadet into Ceruledge, use a Malicious Armor. Obtaining this item varies per game:
+
+- **Scarlet:** Only the Auspicious Armor is available. Exchange 10 Bronzor Fragments with an NPC in Zapapico.
+- **Violet:** Only the Malicious Armor is available. Exchange 10 Sinistea Chips with an NPC in Zapapico.
+- **Z-A + DLC:** Both armors are available. Make an Item Power: Special donut, and break floating Poke Balls in 5⭐ Hyperspace Zones.
+
+In Pokemon GO, Charcadet instead evolves with 50 Charcadet Candy, as well as having it defeat 30 Psychic-type Pokemon for Armarouge or 30 Ghost-type Pokemon for Ceruledge.
+
+### Charcadet
+
+- **SV:** WIP
+- **Z-A + DLC:** Charcadet can be found in [2⭐ Fire-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Fire-type_hyperspace_wild_zones).
+
+## Scovillain
+
+Available in SV, Z-A + DLC, and GO.
+
+- **SV:** WIP
+- **Z-A + DLC:** The entire evolution line appears in [3⭐ Fire-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Fire-type_hyperspace_wild_zones), as well as in [2⭐ and 3⭐ Grass-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Grass-type_hyperspace_wild_zones).
+
+## Tinkaton
+
+Available in SV, Z-A + DLC, and GO.
+
+- **SV:** Tinkaton itself is only available in 5⭐ and 6⭐ Tera Raids in Paldea, and otherwise must be evolved from Tinkatuff.
+    - Tinkatuff has a fixed spawn location at [Casseroya Lake](https://bulbapedia.bulbagarden.net/wiki/Casseroya_Lake) and a Terastallized spawn location at [West Province (Area One)](https://bulbapedia.bulbagarden.net/wiki/West_Province_(Area_One)).
+    - It also appears on [Ruins spawners](https://bulbapedia.bulbagarden.net/wiki/Biome#Ruins) at [South Province (Area Six)](https://bulbapedia.bulbagarden.net/wiki/South_Province_(Area_Six)). Notably, it appears alongside Bronzong, which Scarlet players can grind for Bronzor Fragments for Charcadet evolution items.
+- **Z-A + DLC:** The entire evolution line appears in [Steel-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Steel-type_hyperspace_wild_zones). Tinkatuff and Tinkaton appear in [4⭐ Fairy-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Fairy-type_hyperspace_wild_zones).
+
+## Palafin
+
+Available in SV and GO.
+
+In SV, Palafin itself is only available in 5⭐ Tera Raids in Paldea, and otherwise must be evolved from Finizen. To evolve Finizen, you must form a Union Circle with other players and then level it up to Lv. 38.
+
+The most efficient way to obtain Palafin is to form a Union Circle with a second Switch, and then catch and evolve Finizen en masse. If you don't have a second Switch, you will need to form frequent Union Circles with other players.
+
+### Finizen
+
+- **SV:** Finizen can be found in the ocean surrounding Paldea.
+
+## Orthworm
+
+Available in SV and GO.
+
+- **SV:** Orthworm can be found in [East Province (Area Three)](https://bulbapedia.bulbagarden.net/wiki/East_Province_(Area_Three)).
+
+## Glimmora
+
+Available in SV, Z-A + DLC, and GO.
+
+- **SV:**
+    - Glimmet and Glimmora can be found in Area Zero.
+    - **DLC:** A large number of guaranteed Glimmet and Glimmora appear in the [Area Zero Underdepths](https://bulbapedia.bulbagarden.net/wiki/Area_Zero_Underdepths#Pok%C3%A9mon).
+- **Z-A + DLC:** Glimmet and Glimmora can be found in [Rock-type](https://bulbapedia.bulbagarden.net/wiki/List_of_Rock-type_hyperspace_wild_zones) and [Poison-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Poison-type_hyperspace_wild_zones).
+
+## Dondozo
+
+Available in SV, Z-A + DLC, and GO.
+
+- **SV:** Dondozo can be found at Casseroya Lake.
+- **Z-A + DLC:** Dondozo can be found in [4⭐ Water-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Water-type_hyperspace_wild_zones#4%E2%98%85).
+
+## Tatsugiri
+
+Available in SV, Z-A + DLC, and GO.
+
+Note that Tatsugiri's form changes what stat is boosted when paired with Dondozo. Tatsugiri's form cannot be changed.
+
+- **SV:** All three forms of Tatsugiri can be found very commonly at Casseroya Lake.
+- **Z-A + DLC:** All three forms of Tatsugiri can be found in [4⭐ Water-type hyperspace wild zones](https://bulbapedia.bulbagarden.net/wiki/List_of_Water-type_hyperspace_wild_zones#4%E2%98%85).
+
 ## Farigiraf
 
 Only available in SV.
@@ -94,6 +241,22 @@ Only available in SV.
 Girafarig can be evolved into Farigiraf by teaching it Twin Beam, then leveling it up.
 
 - **SV:** Both Girafarig and Farigiraf can be found in [Area Zero](https://bulbapedia.bulbagarden.net/wiki/Area_Zero).
+
+## Kingambit
+
+Only available in SV by evolving Bisharp.
+
+To evolve Bisharp, fly to Fury Falls (the bamboo forest area of [North Province (Area Two)](https://bulbapedia.bulbagarden.net/wiki/North_Province_(Area_Two))) and give it a Leader's Crest, which is held by wild Bisharp leading groups of Pawniard. Have your Bisharp defeat three wild Bisharp leading groups of Pawniard in battle, then level it up.
+
+Bisharp already holding a Leader's Crest can be found at Fury Falls, so catching and evolving those will be very efficient. Making a Steel Encounter sandwich will cause only the Pawniard line to spawn.
+
+## Sinistcha
+
+Only available in SV + DLC by evolving Poltchageist.
+
+To evolve Poltchageist, use either an Unremarkable Teacup or Masterpiece Teacup, depending on whether it is [Counterfeit or Artisan](https://bulbapedia.bulbagarden.net/wiki/Poltchageist_(Pok%C3%A9mon)#Form_data). Both kinds of Teacups can easily be farmed using [Item Printer RNG manipulation](/SV/printer-manip.md).
+
+Poltchageist can be found in in [Reveler's Road](https://bulbapedia.bulbagarden.net/wiki/Reveler%27s_Road) from [Bamboo Forest spawners](https://bulbapedia.bulbagarden.net/wiki/Biome#Bamboo_Forest). It can also be found in 3⭐ Tera Raids in Kitakami.
 
 ## Archaludon
 
