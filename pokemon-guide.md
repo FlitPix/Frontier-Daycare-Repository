@@ -61,10 +61,10 @@ To evolve Ursaring, sleep until night until it becomes a full moon, then use the
 
 ### Ursaring
 
+- **SV:** At Fury Falls (the bamboo forest area of [North Province (Area Two)](https://bulbapedia.bulbagarden.net/wiki/North_Province_(Area_Two))), making a Normal Encounter Sandwich will cause Teddiursa and Ursaring to appear in large numbers. In Violet, this is a completely isolated encounter; in Scarlet, Oranguru will also appear.
 - **PLA:**
     - Two Alpha Ursaring [always appear](https://bulbapedia.bulbagarden.net/wiki/Alpha_Pok%C3%A9mon#Crimson_Mirelands) in Crimson Mirelands. Teddiursa can often be found near them, too.
     - Ursaring and Teddiursa can be found along the [Sonorous Path](https://bulbapedia.bulbagarden.net/wiki/Sonorous_Path).
-- **SV:** WIP
 - **Shining Pearl:** Teddiursa appears in the Grand Underground.
 
 ## Sneasler
