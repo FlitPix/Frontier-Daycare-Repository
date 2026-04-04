@@ -14,7 +14,7 @@ This guide shows how to abuse RNG to easily get rare items in Scarlet/Violet's I
 
 ## Seeds
 
-Remember that all outputs (except Poke Ball Lotto) can be doubled using the 2x Item Bonus Chance if you happen to roll it.
+Remember that all outputs (except Poke Ball Lotto) can be doubled using the 2x Item Bonus Chance if you happen to roll it. Note the date format listed is MM-DD-YYYY.
 
 ### 5 Unremarkable Teacups
 
