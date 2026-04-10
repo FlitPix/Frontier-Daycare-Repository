@@ -19,18 +19,18 @@ While a Pokemon is visiting, it:
 - will take up a box space in Champions
 Each transfer is limited to 30 Pokemon at a time, but there is no time or resource consumed when transfering, so the process can be repeated infinitely.
 
-##On mobile
+## On mobile
 In the options menu under account, Link with Pokemon Champions, select "send for a visit"
 
-![](/images/home-mobile/Pokemon Home-Mobile-Send for a visit.png)
+![](/images/home-mobile/Pokemon-Home-Mobile-Send-for-a-visit.png)
 
 If you have an active Pokemon Champions file linked to your Nintendo account, you will be shown your trainer name and support ID.
 
-![](/images/home-mobile/Pokemon Home Mobile account.png)
+![](/images/home-mobile/Pokemon-Home-Mobile-account.png)
 
 Similar to the Switch version, you may select up to 30 Pokemon to visit Pokemon Champions. Select the 3 dots to complete the transfer.
 
-![](/images/home-mobile/Pokemon Home mobile transfer select.png)
+![](/images/home-mobile/Pokemon-Home-mobile-transfer-select.png)
 
 ##Collecting in Pokemon Champions
 In Pokemon Champions, in the recruit menu, select "Collect from Pokemon Home", then receive your visitor Pokemon
